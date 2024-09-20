@@ -11,6 +11,3 @@ Taichi-iskw/Taichi-iskw is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichi-iskw&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/t/github-readme-stats)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taichi-iskw&theme=gruvbox&utcOffset=9)
-
