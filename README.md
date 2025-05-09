@@ -22,6 +22,22 @@
   </a>
 </p>
 
+## Verified Certifications
+
+<p align="center">
+  <!-- AWS Solutions Architect - Professional -->
+  <a href="https://www.credly.com/badges/f51637be-f97f-4501-a82f-c9e2f3ae6d50" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+         alt="AWS Certified Solutions Architect – Professional" width="110" />
+  </a>
+
+  <!-- AWS DevOps Engineer - Professional -->
+  <a href="https://www.credly.com/badges/29385771-f10e-47d8-8345-7827a388c305" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
+         alt="AWS Certified DevOps Engineer – Professional" width="110" />
+  </a>
+</p>
+
 <!-- ========================= -->
 <!--  README end               -->
 <!-- ========================= -->
