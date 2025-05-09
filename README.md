@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Taichi-iskw&fontAlignY=35&fontSize=45&desc=Welcome%20to%20my%20GitHub%20profile!" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Taichi Ishikawa&fontAlignY=35&fontSize=45&desc=Welcome%20to%20my%20GitHub%20profile!" alt="header"/>
 </p>
 
 <!-- GitHub Readme Stats (総合 & 言語割合) -->
